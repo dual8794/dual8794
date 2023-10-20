@@ -1,6 +1,5 @@
 - 👋 Hi, I’m duaa!
-- 👀 I’m interested in frontend and game design
-- 🌱 I’m currently learning game design 
+- I’m interested in frontend and game design
 
 
 <!---
